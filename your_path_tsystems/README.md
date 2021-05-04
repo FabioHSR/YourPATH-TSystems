@@ -1,3 +1,6 @@
-# your_path_tsystems
+# YourPATH T-Systems
 
-This app will help your employees understand and organize their learning path to match the prerequisites for promotions.
+Aplicatio desenvolvido para o Hackaton T-Systems/FTT
+Seu objetivo final é aumentar o tempo de permanencia dos funcionários.
+Para isso, buscamos proporcionar uma maior transparência nos requisitos necessários para cada nível.
+Assim como uma forma de facilmente identificar onde o funcionário se encontra neste percurso.
