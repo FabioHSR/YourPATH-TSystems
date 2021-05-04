@@ -1,16 +1,9 @@
-# your_path_tsystems
+# YourPATH T-Systems
 
-A new Flutter project.
+Aplicatio desenvolvido para o Hackaton T-Systems/FTT
 
-## Getting Started
+Seu objetivo final é aumentar o tempo de permanencia dos funcionários.
 
-This project is a starting point for a Flutter application.
+Para isso, buscamos proporcionar uma maior transparência nos requisitos necessários para cada nível.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Assim como uma forma de facilmente identificar onde o funcionário se encontra neste percurso.
